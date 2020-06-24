@@ -1,4 +1,4 @@
-# hello-world
+
 ---
 - hosts: 'apache-httpd:&apt'
   sudo: true
