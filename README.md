@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-# hello-world
-echo hello-world 1
+#!/bin/bash
+echo "hello-world 1"
